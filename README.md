@@ -1,2 +1,0 @@
-# ChannelTV-KHMER
-KhmerTV
