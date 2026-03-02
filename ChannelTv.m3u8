@@ -72,7 +72,16 @@ http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/playlist.m
 http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8
 #EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Khmer",CTV8 HD
 https://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
+EXTM3U
+#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,http || TOWN FULL HDTV
 http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8
+EXTM3U
+#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,ទូរទស្សន៍រឿងកូរ៉េ || KoreaDrama
+
 http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8
-http://43.252.18.195:5080/live/streams/ChineseDrama.playlist.m3u8
+EXTM3U
+#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,ទូរទស្សន៍រឿងចិន || ChineseDrama
+http://4http2.18.195:5080/live/streams/ChineseDrama.playlist.m3u8
+EXTM3U
+#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,ទូរទស្សន៍បទចម្រៀង || Music
 http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
