@@ -26,7 +26,7 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 https://wwkhhome.wewatch.asia/nl.m3u8?id=TV5
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/FYqvxUM.png" group-title="TVK" , ទទក២ (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="TVK72ទទក (720p)
+#EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="TVK",ទទក (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #http://43.245.34.8:9000/OneTV/TVK.m3u8
 
@@ -50,7 +50,7 @@ https://cdnssc.wewatch.asia/b3A9WTJsa1BUQTRNVGRHT1RVMU4wUXhRVFJHUkVRNU9URTJOVEV6
 
 #EXTINF:-1 tvg-logo="https://happywatch99.com/assets/global/live_thumb/1398.jpg" group-title="ប៉ុស្តិ៍ខ្មែរ",PP Digital TV🇰🇭
 http://live.happywatch99.com/livehd3/f9527f8b5631c605187be673ce3f2f75.sdp/playlist.m3u8
-
+#EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="Khmer",Apsara TV11
 https://live.ams.com.kh/app/stream/playlist.m3u8
 
 #EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/EcqEMMg.png" group-title="Khmer",រស្មីហង្សមាស HDTV
