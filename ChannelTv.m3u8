@@ -1,6 +1,6 @@
 #EXTM3U
 # Khmer Channel #
-#EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="Bayon TV Group",ទូរទស្សន៍ បាយ័ន (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="Bayon TV Group",ទូរទស្សន៍ បាយ័ន (720p)
 #https://live.kh.malimarcdn.com/live/bayonhd.stream/playlibst.m3u8
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 #http://43.245.34.8:9000/OneTV/BTV.m3u8
@@ -8,7 +8,6 @@ https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUQkZOekl3TmtVeE9UQkRORFEwTWtVNU5UaEdOakZGT1VaR05UYzVORE0wSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="News",Fresh News (720p)
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
-
 #EXTINF:-32 player-buffer="50" tvg-id="PNN.kh" tvg-name="PNN (1080p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="ប៉ុស្តិ៍ខ្មែរ",PNN ភីអិនអិន (1080p)
 https://wwkhhome.wewatch.asia/nl.m3u8?id=PNN1003
 #EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="ប៉ុស្តិ៍ខ្មែរ",អាស៊ីអាគ្នេយ៍ (1080p)
@@ -29,10 +28,8 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="TVK",ទទក (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #http://43.245.34.8:9000/OneTV/TVK.m3u8
-
 #EXTINF:-1 tvg-id="KHMERTV.KH" tvg-name="KhmerTV" tvg-country="KH" tvg-language="khmer" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ", Khmer TV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
-
 http://43.252.18.195:5080/streams/streams/cnctv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="CTN Group",CTN សុីធីអិន
 #work-http://103.25.92.30:10016/2.m3u8
@@ -41,49 +38,36 @@ https://cdnssc.wewatch.asia/b3A9WTJsa1BUVTRNa0pDTWtRNE1UYzVORFEzT1VOQ05VRkZRak13
 #http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
 #http://43.245.34.8:9000/OneTV/CTN.m3u8
 #http://43.252.18.195:5080/live/streams/ctntv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/MYTV_2008.png/revision/latest?cb=20191209085802" group-title="CTN Group",MYTV 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/MYTV_2008.png/revision/latest?cb=20191209085802" group-title="CTN Group",ម៉ាយធីវី MYTV 
 #http://103.25.92.30:10018/2.m3u8
 #https://cdnssc.wewatch.asia/b3A9WTJsa1BURkZRemxDUkVKRk5VVkdSalE0T1VRNE56RkdOa0kxTURoRVFqWkVNMFU1Sm5OMFBXeHBkbVVtYzNSNVBXUmhjMmclM2QmdG9rPTY5N2JlNDgxNWVjYjY3NmYwYTY5NmUzYzc2YTFkYjNlNmEwOWM2MjgmZGV2aWQ9ZGNmYWVmYTczYTYzOGRmYTJjY2RjNjNlZjc1MmU1Yzc%3D/auto_h264.mpd
 #http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 #http://43.245.34.8:9000/OneTV/MYTV.m3u8
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUQTRNVGRHT1RVMU4wUXhRVFJHUkVRNU9URTJOVEV6TkRaQk5qY3dOakV4Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://happywatch99.com/assets/global/live_thumb/1398.jpg" group-title="ប៉ុស្តិ៍ខ្មែរ",PP Digital TV🇰🇭
 http://live.happywatch99.com/livehd3/f9527f8b5631c605187be673ce3f2f75.sdp/playlist.m3u8
-#EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="Khmer",Apsara TV11
+#EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="Khmer",ប៉ុស្តិ៍លេខ១១ MYTV
 https://live.ams.com.kh/app/stream/playlist.m3u8
-
 #EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/EcqEMMg.png" group-title="Khmer",រស្មីហង្សមាស HDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-
 #EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Khmer",ហង្សមាស HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8
-
 #EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",Hang Meas Cine
 http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8
-
 #EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",Hang Meas Go UHD
 http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8
-
 #EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",Hang Meas Now
 http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/playlist.m3u8
-
 #EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",Hang Meas Play UHD
 http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8
 #EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Khmer",CTV8 HD
 https://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
-EXTM3U
-#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,http || TOWN FULL HDTV
+#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,ថោន HDTV || TOWN FULL HDTV
 http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8
-EXTM3U
 #EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,ទូរទស្សន៍រឿងកូរ៉េ || KoreaDrama
-
 http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8
-EXTM3U
 #EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,ទូរទស្សន៍រឿងចិន || ChineseDrama
 http://4http2.18.195:5080/live/streams/ChineseDrama.playlist.m3u8
-EXTM3U
 #EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,ទូរទស្សន៍បទចម្រៀង || Music
 http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
-#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,ទូរទស្សន៍ភីអិនអិន || PNN
-http://43.252.18.195:5080/live/streams/PNN.playlist.m3u8.m3u8
+#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,TV11tp://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
