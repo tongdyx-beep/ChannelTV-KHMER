@@ -85,3 +85,5 @@ http://4http2.18.195:5080/live/streams/ChineseDrama.playlist.m3u8
 EXTM3U
 #EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,ទូរទស្សន៍បទចម្រៀង || Music
 http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
+#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,ទូរទស្សន៍ភីអិនអិន || PNN
+http://43.252.18.195:5080/live/streams/PNN.playlist.m3u8.m3u8
