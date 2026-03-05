@@ -67,3 +67,5 @@ http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
 #EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,TV11tp://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
 #EXTINF:-32 player-buffer="50" tvg-id="PNN.kh" tvg-name="PNN (1080p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="ប៉ុស្តិ៍ខ្មែរ",PNN ភីអិនអិន (1080p)
 http://43.252.18.195:5080/live/streams/PNN.playlist.m3u8.m3u8
+#EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/EcqEMMg.png" group-title="Khmer",រស្មីហង្សមាស HDTV
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
